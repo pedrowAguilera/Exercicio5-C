@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\47660753827\\Desktop\\C\u002B\u002B\\Exercico5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20102FB8-C73E-41A7-996B-9327D479C4BD}|Exercico5\\Exercico5.vcxproj|C:\\Users\\47660753827\\Desktop\\C\u002B\u002B\\Exercico5\\Exercico5\\Exercico5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20102FB8-C73E-41A7-996B-9327D479C4BD}|Exercico5\\Exercico5.vcxproj|solutionrelative:Exercico5\\Exercico5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exercico5.cpp",
+              "DocumentMoniker": "C:\\Users\\47660753827\\Desktop\\C\u002B\u002B\\Exercico5\\Exercico5\\Exercico5.cpp",
+              "RelativeDocumentMoniker": "Exercico5\\Exercico5.cpp",
+              "ToolTip": "C:\\Users\\47660753827\\Desktop\\C\u002B\u002B\\Exercico5\\Exercico5\\Exercico5.cpp",
+              "RelativeToolTip": "Exercico5\\Exercico5.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-03T17:57:48.767Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
